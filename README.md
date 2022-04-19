@@ -41,7 +41,7 @@ We defined non-feature related words as stopwords, and delete them from the comm
 
 ## Authors
 
-* **Group 9 ** 
+* Group 9
 * 2675497y
 * 2637982x
 * 2539533h
