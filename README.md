@@ -1,3 +1,5 @@
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/101479845/163987059-903b3592-46dd-4217-b138-7c3a2c5ce966.png">  
+
 # Financial Information Retrieval
 This is the file for the explanation of the report of Financial Information Retrieval.
 
